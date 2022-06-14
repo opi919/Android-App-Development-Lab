@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Momen Khandoker</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Momen\n\n
+        I love Biriyani\n\n
+        I am a technology lover and quick learner\n\n
+        I have a great skill of problem-solving and is very much fond of facing challenges\n\n
+        I always loves to learn\n\n
+        I am doing my B. Sc. in Computer Science and Engineering from the University of Rajshahi\n\n
+        I am a technology lover and quick learner\n\n
+        I have a great skill of problem-solving and is very much fond of facing challenges\n\n
+        I always loves to learn\n\n
+        I am doing my B. Sc. in Computer Science and Engineering from the University of Rajshahi\n\n
+        I am a technology lover and quick learner\n\n
+        I have a great skill of problem-solving and is very much fond of facing challenges\n\n
+        I always loves to learn\n\n
+        I am doing my B. Sc. in Computer Science and Engineering from the University of Rajshahi\n\n
+        I always loves to learn\n\n
+        I am doing my B. Sc. in Computer Science and Engineering from the University of Rajshahi\n\n
+        I am a technology lover and quick learner\n\n
+        I have a great skill of problem-solving and is very much fond of facing challenges\n\n
+        I always loves to learn\n\n
+        I am doing my B. Sc. in Computer Science and Engineering from the University of Rajshahi\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
